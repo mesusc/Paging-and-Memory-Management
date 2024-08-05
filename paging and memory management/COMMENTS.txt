@@ -1,0 +1,2 @@
+Assignment is good but it'd be helpful if question is bit clearer and testcases been provided.
+Without giving testcases how're we supposed to get corner cases or figure out the exact process how it'll work?
